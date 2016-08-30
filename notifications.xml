@@ -1,0 +1,11 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="ideavim-sticky" displayType="STICKY_BALLOON" />
+    <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
+    <notification groupId="PHP-CGI Server" displayType="STICKY_BALLOON" />
+    <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" />
+  </component>
+</application>
