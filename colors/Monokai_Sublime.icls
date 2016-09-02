@@ -27,7 +27,6 @@
     <option name="WHITESPACES" value="454444" />
   </colors>
   <attributes>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
@@ -93,7 +92,6 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_RED_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff5765" />
@@ -254,7 +252,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ENUM_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="f72671" />
@@ -327,7 +324,6 @@
         <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="35362c" />

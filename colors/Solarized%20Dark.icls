@@ -17,7 +17,6 @@
     <option name="WHITESPACES" value="93a1a1" />
   </colors>
   <attributes>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
         <option name="FOREGROUND" value="586e75" />
@@ -46,7 +45,6 @@
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value />
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value />
     </option>
@@ -180,7 +178,6 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
-    <option name="ENUM_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff0000" />
@@ -248,7 +245,6 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value />
     </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
@@ -522,7 +518,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd3800" />
