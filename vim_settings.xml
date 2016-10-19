@@ -3,23 +3,55 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Sites/jtb/ovsrail/T-030-pc.html" timestamp="1476855022213">
-        <mark key="'" line="246" column="28" />
-        <mark key="[" line="246" column="44" />
-        <mark key="]" line="404" column="24" />
-        <mark key="^" line="404" column="24" />
-        <mark key="." line="246" column="2385" />
+      <file name="$USER_HOME$/Sites/jtb/ovsrail/T-030-pc.html" timestamp="1476856713657">
+        <mark key="'" line="243" column="28" />
+        <mark key="[" line="453" column="0" />
+        <mark key="]" line="453" column="0" />
+        <mark key="." line="453" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="253" column="28" filename="$USER_HOME$/Sites/jtb/ovsrail/T-030-pc.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">44CA</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">44CA</text>
+        <text>取消料、払い戻し条件</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQkJCTxoNSBjbGFzcz0iZml0LWZsaWdodC10ZXJtcy0wMV9fdHRsLTAzIj7lpZHntITjga7miJDnq4s8L2g1Pgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CgoKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQk8ZGl2IGNsYXNzPSJtYXgtd2lkdGgiLS0+Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CTxoNSBjbGFzcz0iZml0LWZsaWdodC10ZXJtcy0wMV9fdHRsLTAzIj7ml4XooYzmnaHku7bmm7g8L2g1PgoJCQkJCQk8ZGl2IGNsYXNzPSJmaXQtZmxpZ2h0LXRlcm1zX19ib3gtaW5uZXIiPgoJCQkJCQk8aDUgY2xhc3M9ImZpdC1mbGlnaHQtdGVybXMtMDFfX3R0bC0wMyI+6Iiq56m65Lya56S+6KaP5a6a44Gu5LqI57SE5aSJ5pu05p2h5Lu277yI5b6p6Lev6YGL6LOD77yJPC9oNT4KCQkJCQkJPHAgY2xhc3M9ImZpdC1mbGlnaHQtdGVybXMtMDFfX3R4dCI+44CQ5LqI57SE44Gu5aSJ5pu044CRPGJyPuaJgOWumuOBruaJi+aVsOaWmeOCkuOBiuaUr+aJleOBhOOBhOOBn+OBoOOBj+OBk+OBqOOBq+OCiOOCiuWkieabtOOBp+OBjeOBvuOBmeOAgjxicj4oMSkg5Ye655m65YmN44Gn44GN44G+44Gb44KT44CCPGJyPigyKSDlh7rnmbrlvowx5Zue44Gr44Gk44GNMjAsMDAw5YaG44CC44Gf44Gg44GX44CB5pyJ5Yq55pyf6ZmQ5YaF44Gr6ZmQ44KK44G+44GZ44CCPC9wPgoJCQkJCQk8L2Rpdj4KCQkJCQkJPGRpdiBjbGFzcz0iZml0LWZsaWdodC10ZXJtc19fYm94LWlubmVyIj4KCQkJCQkJPGg1IGNsYXNzPSJmaXQtZmxpZ2h0LXRlcm1zLTAxX190dGwtMDMiPuiIquepuuS8muekvuimj+WumuOBruS6iOe0hOWPluOCiua2iOOBl+ODu+aJleOBhOaIu+OBl+adoeS7tlvlvoDot6/pgYvos4NdPC9oNT4KCQkJCQkJPHAgY2xhc3M9ImZpdC1mbGlnaHQtdGVybXMtMDFfX3R4dCI+44CQ5Y+W44KK5raI44GX44O75omV44GE5oi744GX44CRPGJyPuiIquepuuWIuOizvOWFpeW+jOOBruWPluOCiua2iOOBl+OBq+OBpOOBhOOBpuOBr+aJgOWumuOBruaJi+aVsOaWmeOBjOOBi+OBi+OCiuOBvuOBmeOAguaJgOWumuOBruaJi+aVsOaWmeOCkuOBiuaUr+aJleOBhOOBhOOBn+OBoOOBj+OBk+OBqOOBq+OCiOOCiuWkieabtOOBp+OBjeOBvuOBmeOAgjxicj4oMSkg5Ye655m65YmNMzAsMDAw5YaGPGJyPigyKSDlh7rnmbrlvozmiZXjgYTmiLvjgZfjgafjgY3jgb7jgZvjgpPjgII8L3A+CgkJCQkJCTwvZGl2PgoJCQkJCQk8ZGl2IGNsYXNzPSJmaXQtZmxpZ2h0LXRlcm1zX19ib3gtaW5uZXIiPgoJCQkJCQk8aDUgY2xhc3M9ImZpdC1mbGlnaHQtdGVybXMtMDFfX3R0bC0wMyI+6Iiq56m65Lya56S+6KaP5a6a44Gu5LqI57SE5Y+W44KK5raI44GX44O75omV44GE5oi744GX5p2h5Lu2W+W+qei3r+mBi+izg108L2g1PgoJCQkJCQk8cCBjbGFzcz0iZml0LWZsaWdodC10ZXJtcy0wMV9fdHh0Ij7jgJDlj5bjgormtojjgZfjg7vmiZXjgYTmiLvjgZfjgJE8YnI+5omA5a6a44Gu5omL5pWw5paZ44KS44GK5pSv5omV44GE44GE44Gf44Gg44GP44GT44Go44Gr44KI44KK5aSJ5pu044Gn44GN44G+44GZ44CCPGJyPigxKSDlh7rnmbrliY3jgafjgY3jgb7jgZvjgpPjgII8YnI+KDIpIOWHuueZuuW+jDHlm57jgavjgaTjgY0yMCwwMDDlhobjgILjgZ/jgaDjgZfjgIHmnInlirnmnJ/pmZDlhoXjgavpmZDjgorjgb7jgZnjgII8YnI+4oC76Zu76Kmx44O75bqX6aCt44Gn44GU5LqI57SE44GV44KM44KL5aC05ZCI44Gv44CB6Iiq56m65Lya56S+44Gu5LqI57SE44O76LO85YWl5p2h5Lu244KE5LqI57SE5aSJ5pu044CB5Y+W44KK5raI44GX44O75omV44GE5oi744GX5p2h5Lu244GM55Ww44Gq44KL5aC05ZCI44GM44GC44KK44G+44GZ44CCPC9wPgoJCQkJCQk8L2Rpdj4=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQkJPCEtLTxwIGNsYXNzPSJmaXQtZmxpZ2h0LXRlcm1zLTAxX190eHQiPuOAkOacieWKueacn+mWk++8iOWHuueZuuaXpeOBrue/jOaXpeOBi+OCieaVsOOBiOOBvuOBme+8ieOAkTxicj4y5pel5Lul5LiKMeODtuaciOS7peWGheOAgjwvcD4tLT4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQkJPCEtLTxwIGNsYXNzPSJmaXQtZmxpZ2h0LXRlcm1zLTAxX190eHQiPuOAkOS6iOe0hOOBqOiIquepuuWIuOOBruOBlOizvOWFpeOAkTxicj4oMSkg44GU5peF56iL44Gu44GZ44G544Gm44Gu5Yy66ZaT44Gu5LqI57SE44GM5Y+W44KM44Gm44GE44KL44GT44Go44GM5p2h5Lu244Gn44GZ44CCPGJyPigyKSDkuojntITjga/lh7rnmbrml6Xjga435pel5YmN44G+44Gn44Gr6KGM44Gj44Gm44GP44Gg44GV44GE44CCPGJyPigzKSDoiKrnqbrliLjjga/kuojntITlvow3MuaZgumWk+S7peWGheOBq+OAgeOBi+OBpOWHuueZuuaXpeOBrjfml6XliY3jgb7jgafjgavjgZTos7zlhaXjgY/jgaDjgZXjgYTjgII8L3A+LS0+Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQkJPC9kaXY+Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -28,10 +60,16 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
