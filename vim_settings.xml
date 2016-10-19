@@ -1,0 +1,29 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Sites/jtb/ovsrail/T-030-pc.html" timestamp="1476854644459">
+        <mark key="[" line="251" column="81" />
+        <mark key="]" line="251" column="81" />
+        <mark key="^" line="195" column="48" />
+        <mark key="." line="251" column="81" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">44CA</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">44CA</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+  </component>
+</application>
