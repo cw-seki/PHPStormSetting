@@ -6,6 +6,10 @@
           <option name="url" value="http://redmine.clanweiss.co.jp" />
           <option name="userName" value="seki" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://cb-project.backlog.jp" />
+          <option name="userName" value="cw_seki" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
