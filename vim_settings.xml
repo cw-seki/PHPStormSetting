@@ -15,11 +15,15 @@
         <mark key="." line="90" column="78" />
         <mark key="^" line="138" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/onthe_table/app/dev/movie/index.html" timestamp="1485867069511" />
       <file name="/a.dummy" timestamp="1485866929445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/onthe_table/app/dev/ejs/common/_movie_right.ejs" timestamp="1485867048614" />
+      <file name="$USER_HOME$/Sites/cw2017/gulpfile.js" timestamp="1486128328455">
+        <mark key="[" line="68" column="2" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/jtb/ovsopt/assets/js/ovsopt-searchpanel-pc.js" timestamp="1476862374860">
         <mark key="'" line="720" column="4" />
         <mark key="[" line="728" column="51" />
@@ -27,16 +31,17 @@
         <mark key="." line="728" column="51" />
         <mark key="^" line="728" column="51" />
       </file>
-      <file name="$USER_HOME$/Sites/onthe_table/app/dev/ejs/common/_top_right.ejs" timestamp="1485867566046" />
       <file name="$USER_HOME$/Sites/XyXon/src/sass/pages/_sub-page.scss" timestamp="1485533253017">
         <mark key="[" line="236" column="4" />
         <mark key="]" line="213" column="13" />
         <mark key="." line="213" column="13" />
         <mark key="^" line="213" column="13" />
       </file>
-      <file name="$USER_HOME$/Sites/onthe_table/app/dev/index.html" timestamp="1485867165978" />
       <file name="$USER_HOME$/Sites/onthe_table/app/dev/ejs/common/_right.ejs" timestamp="1485867719694">
         <mark key="[" line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/Sites/megane_ski.bitbucket.org/gulpfile.js" timestamp="1486128134288">
+        <mark key="[" line="11" column="41" />
       </file>
       <file name="$USER_HOME$/Sites/jtb/ovsrail/T-030-pc.html" timestamp="1476856713657">
         <mark key="'" line="243" column="28" />
@@ -52,10 +57,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CXBvc2l0aW9uOiByZWxhdGl2ZTsKCQl6LWluZGV4OiAxOwoJCW92ZXJmbG93OiB2aXNpYmxlOwoJCS5zbGlkZUltZyB7</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>class=&quot;slideImg&quot;</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCTxoNSBjbGFzcz0iZml0LWZsaWdodC10ZXJtcy0wMV9fdHRsLTAzIj7lpZHntITjga7miJDnq4s8L2g1Pgo=</text>
