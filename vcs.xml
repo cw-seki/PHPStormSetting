@@ -10,6 +10,10 @@
           <option name="url" value="http://cb-project.backlog.jp" />
           <option name="userName" value="cw_seki" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://ainoma.backlog.jp" />
+          <option name="userName" value="seki@12grid.co.jp" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
