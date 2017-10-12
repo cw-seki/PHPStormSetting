@@ -40,6 +40,11 @@
         <mark key="." line="213" column="13" />
         <mark key="^" line="213" column="13" />
       </file>
+      <file name="$USER_HOME$/Sites/unisys_heartware/app/static/js/main.js" timestamp="1507822852252">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+      </file>
       <file name="$USER_HOME$/Sites/unisys_heartware/app/static/sass/object/component/_label.scss" timestamp="1507821500424">
         <mark key="[" line="7" column="16" />
       </file>
@@ -69,10 +74,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>span</text>
+        <text>hamburge</text>
       </register>
       <register name="-" type="4">
-        <text>span</text>
+        <text>hamburge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCTxoNSBjbGFzcz0iZml0LWZsaWdodC10ZXJtcy0wMV9fdHRsLTAzIj7lpZHntITjga7miJDnq4s8L2g1Pgo=</text>
