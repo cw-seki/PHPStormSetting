@@ -23,10 +23,10 @@
       <file name="/a.dummy" timestamp="1485866929445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/htdocs/app/static/js/index.js" timestamp="1508172206876">
-        <mark key="[" line="62" column="24" />
-        <mark key="]" line="62" column="24" />
-        <mark key="." line="62" column="24" />
+      <file name="$USER_HOME$/Sites/htdocs/app/static/js/index.js" timestamp="1508172977555">
+        <mark key="[" line="62" column="39" />
+        <mark key="]" line="62" column="39" />
+        <mark key="." line="62" column="39" />
       </file>
       <file name="$USER_HOME$/Sites/cw2017/gulpfile.js" timestamp="1486128328455">
         <mark key="[" line="68" column="2" />
@@ -34,7 +34,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/htdocs/app/_ejs/include/_javascript.ejs" timestamp="1508172309937" />
+      <file name="$USER_HOME$/Sites/htdocs/app/_ejs/include/_javascript.ejs" timestamp="1508172320341" />
       <file name="$USER_HOME$/Sites/unisys_heartware/app/static/sass/layout/_layout.scss" timestamp="1507824254248">
         <mark key="[" line="397" column="0" />
       </file>
@@ -76,10 +76,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>swiper-contain</text>
+        <text encoding="base64">IC5p</text>
       </register>
       <register name="-" type="4">
-        <text>swiper-contain</text>
+        <text encoding="base64">IC5p</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCTxoNSBjbGFzcz0iZml0LWZsaWdodC10ZXJtcy0wMV9fdHRsLTAzIj7lpZHntITjga7miJDnq4s8L2g1Pgo=</text>
