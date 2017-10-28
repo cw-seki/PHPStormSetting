@@ -72,6 +72,11 @@
       <file name="$USER_HOME$/Sites/megane_ski.bitbucket.org/gulpfile.js" timestamp="1486128134288">
         <mark key="[" line="11" column="41" />
       </file>
+      <file name="$USER_HOME$/Sites/htdocs/app/static/sass/object/project/_index.scss" timestamp="1509169925758">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+      </file>
       <file name="$USER_HOME$/Sites/htdocs/app/static/sass/object/project/_detail.scss" timestamp="1509132599651">
         <mark key="[" line="101" column="25" />
       </file>
@@ -89,10 +94,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC5p</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC5p</text>
+        <text>5</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCTxoNSBjbGFzcz0iZml0LWZsaWdodC10ZXJtcy0wMV9fdHRsLTAzIj7lpZHntITjga7miJDnq4s8L2g1Pgo=</text>
