@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="d" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
