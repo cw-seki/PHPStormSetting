@@ -1,4 +1,4 @@
-<code_scheme name="popo">
+<code_scheme name="popo" version="173">
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_TEXT_WRAP" value="0" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
@@ -6,6 +6,11 @@
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
   </JSCodeStyleSettings>
@@ -15,9 +20,15 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
@@ -27,17 +38,20 @@
     <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
