@@ -1,5 +1,5 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false">
     <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
     <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
